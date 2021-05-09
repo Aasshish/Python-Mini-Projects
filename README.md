@@ -7,7 +7,7 @@ Python Mini Projects.
   python mp3.py
 
 2. URL-Shorten
-  #Requirement
+  #Requirements
   pip install urlshorteners
   #to run
   python urlShortner.py

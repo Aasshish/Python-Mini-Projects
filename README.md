@@ -5,3 +5,9 @@ Python Mini Projects.
   pip install pygame
   #To run
   python mp3.py
+
+2. URL-Shorten
+  #Requirement
+  pip install urlshorteners
+  #to run
+  python urlShortner.py
